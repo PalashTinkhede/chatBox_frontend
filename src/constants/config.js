@@ -1,1 +1,2 @@
-export const server = import.meta.env.VITE_SERVER;
+export const server = 'https://chatbox-backend-2.onrender.com/';
+
